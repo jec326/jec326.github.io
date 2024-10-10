@@ -32,8 +32,8 @@ This timeline explores the highs and lows of Lehigh's football team since its st
 
 ![percentage of students in college majors at Lehigh University in 2024](https://github.com/jec326/jec326.github.io/blob/main/The_Three_Most_Populous_Countries_Percentage_chartbuilder.png?raw=true) 
 
-# Campbell Soup Sales Per Month Throughout The Year
-This chart displays the relationship between the time of year and Campbell Soup sales, per thousand units. You can see there is a steady fluctation from January to July, and then spikes during the fall season during Septemer-October and further increases during November and December. It seems as though there is a direct correlation between the cooler season and soup sales. 
+# Sales of different types of cars in 2023 
+This chart displays the variation in car sales throughout the 2023 year. You can see that SUV sales have spiked which may have a direct coorelation to the lesser sales in pickup trucks. Another mentionable observation is with the rise of environmental activists, electric vehicles had higher sales than hybrid cars.  
 
-![Campbell Soup sales per month throughout the year](https://github.com/jec326/jec326.github.io/blob/main/Campbell_Soup_Sales_in_1%2C000_Units_Campbell_Soup_Sales_in_1%2C000_Units_chartbuilder.png)
+![Car Sales in 2023](https://github.com/jec326/jec326.github.io/blob/main/Car_sales_in_2023_Sales_in_2023_chartbuilder.png?raw=true))
 
