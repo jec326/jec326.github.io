@@ -36,3 +36,4 @@ This timeline explores the highs and lows of Lehigh's football team since its st
 This chart displays the relationship between the time of year and Campbell Soup sales, per thousand units. You can see there is a steady fluctation from January to July, and then spikes during the fall season during Septemer-October and further increases during November and December. It seems as though there is a direct correlation between the cooler season and soup sales. 
 
 ![Campbell Soup sales per month throughout the year](https://github.com/jec326/jec326.github.io/blob/main/Campbell_Soup_Sales_in_1%2C000_Units_Campbell_Soup_Sales_in_1%2C000_Units_chartbuilder.png)
+
