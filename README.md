@@ -18,11 +18,16 @@ This is an inforgraphic of the percentage of students in specific college major 
 
 ![infographic](https://github.com/jec326/jec326.github.io/blob/main/Simple%20and%20Colorful%20Productivity%20Infographic.jpg?raw=true) 
 
-# infographic 1
-Project description 
+# Timeline of Women Throughout History 
+This is a timeline displaying the success of educated and non-educated woman throughout history. It displays the evolution of bright woman from the 1940s to the 1980s 
 
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&font=Default&lang=en&initial_zoom=2&height=650" width="100%" height="650" frameborder="0"></iframe> 
 
-# infographic 2
+# History of Lehigh Football
+This timeline explores the highs and lows of Lehigh's football team since its start in 1884 to the present years during the Covid-19 Pandemic. This graphic highlights the rivarly, wins, losses and the current state of the team 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1x36b-lIJ2DTQtqG1vvouKqZYIsr1ny2ve-KzP5N0g-g&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder="0"></iframe>
+
+# Percentage of College Majors at Lehigh University in 2024
+
+! (https://github.com/jec326/jec326.github.io/blob/main/The_Three_Most_Populous_Countries_Percentage_chartbuilder.png?raw=true) 
