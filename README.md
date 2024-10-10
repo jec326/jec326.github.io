@@ -25,4 +25,4 @@ Project description
 
 # infographic 2
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1x36b-lIJ2DTQtqG1vvouKqZYIsr1ny2ve-KzP5N0g-g&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen  
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1x36b-lIJ2DTQtqG1vvouKqZYIsr1ny2ve-KzP5N0g-g&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder="0"></iframe>
