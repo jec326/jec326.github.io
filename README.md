@@ -14,7 +14,7 @@ This is an infographic of the percentages of where undergraduate students are fr
 
 # Percentage of Students in Specific College Majors
 
-This is an inforgraphic of the percentage of students in specific college major fields from [IES NCES](https://nces.ed.gov/fastfacts/display.asp?id=37#:~:text=business%20(375%2C400%20degrees%2C%20or%2019,123%2C000%20degrees%2C%20or%206%20percent)
+This is an inforgraphic of the percentage of students in specific college major fields from [IES NCES](https://nces.ed.gov/fastfacts/display.asp?id=37).
 
 ![infographic](https://github.com/jec326/jec326.github.io/blob/main/Simple%20and%20Colorful%20Productivity%20Infographic.jpg?raw=true) 
 
