@@ -30,4 +30,4 @@ This timeline explores the highs and lows of Lehigh's football team since its st
 
 # Percentage of College Majors at Lehigh University in 2024
 
-! (https://github.com/jec326/jec326.github.io/blob/main/The_Three_Most_Populous_Countries_Percentage_chartbuilder.png?raw=true) 
+![percentage of students in college majors at Lehigh University in 2024](https://github.com/jec326/jec326.github.io/blob/main/The_Three_Most_Populous_Countries_Percentage_chartbuilder.png?raw=true) 
