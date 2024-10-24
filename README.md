@@ -37,3 +37,6 @@ This chart displays the variation in car sales throughout the 2023 year. You can
 
 ![Car Sales in 2023](https://github.com/jec326/jec326.github.io/blob/main/Car_sales_in_2023_Sales_in_2023_chartbuilder.png?raw=true))
 
+# 2019 World Top Cycling Cities
+This is a map of the 2019 top 20 cities for cycling around the World published by the Wired Magazine
+<iframe src="https://www.google.com/maps/d/embed?mid=1qBfN9cBRxo6mh-TJUjiu35Ls-PYtb3k&ehbc=2E312F" width="640" height="480"></iframe> 
