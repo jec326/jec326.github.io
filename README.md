@@ -44,3 +44,7 @@ This is a map of the 2019 top 20 cities for cycling around the World published b
 # The Most Elite Ski Mountains Around The World
 This map shows some of the most prestigious ski mountains from around the world according to the Forbes Advisor World Ski Index 
 <iframe src="https://www.google.com/maps/d/embed?mid=1xScY0FCQAVobTXnZC9cAZX68xVF9Cuo&ehbc=2E312F" width="640" height="480"></iframe> 
+
+# Publishing Blog Platform
+This blog is an extension of my journey as a writer, marketer, and lifelong learner. Here, you’ll find stories about the people, places, and ideas that inspire me. From uncovering the vibrant energy of Bethlehem’s South Side community to exploring the transformative power of art, my goal is to shine a light on moments that often go unnoticed. 
+(https://manage.wix.com/dashboard/b2de4214-e720-46e5-b8aa-930476a5d488/blog/5b1f88b3-f7b0-4162-95cc-fe203fd9737d/edit) 
