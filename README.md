@@ -47,7 +47,7 @@ This map shows some of the most prestigious ski mountains from around the world 
 
 # Publishing Blog Platform
 This blog is an extension of my journey as a writer, marketer, and lifelong learner. Here, you’ll find stories about the people, places, and ideas that inspire me. From uncovering the vibrant energy of Bethlehem’s South Side community to exploring the transformative power of art, my goal is to shine a light on moments that often go unnoticed. 
-(https://manage.wix.com/dashboard/b2de4214-e720-46e5-b8aa-930476a5d488/blog/5b1f88b3-f7b0-4162-95cc-fe203fd9737d/edit) 
+([https://manage.wix.com/dashboard/b2de4214-e720-46e5-b8aa-930476a5d488/blog/5b1f88b3-f7b0-4162-95cc-fe203fd9737d/edit](https://jec326.wixsite.com/julia-cassone)) 
 
 # Data Visualization 1
 <script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/datajournalism/views/PartyData2/PartyData1' width='1402' height='743' hide-tabs toolbar='bottom' ></tableau-viz> 
